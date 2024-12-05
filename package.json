@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "agentql": "^1.6.0",
+    "google-play-scraper": "^10.0.1",
+    "puppeteer": "^23.9.0"
+  }
+}
